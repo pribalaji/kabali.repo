@@ -31,7 +31,6 @@ resource "aws_instance" "example3" {
   instance_type = "t2.micro"
   subnet_id = "subnet-03cd8b41362c3cff3"
 }
-root@LAPTOP-OOFKB8CO:~/scripts/terraform-templates#
 
 
 
